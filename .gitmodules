@@ -1,0 +1,6 @@
+[submodule "line_detector"]
+	path = line_detector
+	url = https://github.com/johnchars/line_detector.git
+[submodule "Hello-World"]
+	path = Hello-World
+	url = https://github.com/johnchars/Hello-World.git
